@@ -5,4 +5,4 @@ To reproduce the bug:
 
 **Demo video**
 
-[!Demo Video]([https://youtu.be/vt5fpE0bzSY](https://raw.githubusercontent.com/victorteokw/NSTextViewBugDemo/refs/heads/main/bugdemo.mov))
+[Demo Video](https://raw.githubusercontent.com/victorteokw/NSTextViewBugDemo/refs/heads/main/bugdemo.mov)
