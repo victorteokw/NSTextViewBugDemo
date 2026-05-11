@@ -5,4 +5,8 @@ To reproduce the bug:
 
 **Demo video**
 
+
+
+https://github.com/user-attachments/assets/2f6a3856-6cc3-416d-af55-a561e684c63e
+
 [Demo Video](https://raw.githubusercontent.com/victorteokw/NSTextViewBugDemo/refs/heads/main/bugdemo.mov)
